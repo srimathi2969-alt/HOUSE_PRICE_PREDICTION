@@ -1,0 +1,12 @@
+.venv/
+venv/
+.git/
+.gitignore
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+mlruns/
+mlflow.db
+.vscode/
+.DS_Store
+Thumbs.db
